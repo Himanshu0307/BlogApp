@@ -1,0 +1,13 @@
+{
+    "params":
+    {
+        "local_sql_url":"mysql://root:root@localhost/blog",
+        "local_server":"True",
+        "facebook_url":"https://www.facebook.com",
+        "twitter_url":"https://www.twitter.com",
+        "git_url":"https://www.github.com",
+        "about_me":"I m a good boy"
+                
+
+    }
+}
